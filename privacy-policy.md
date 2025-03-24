@@ -12,12 +12,15 @@ By using the App, you agree to the terms of this Privacy Policy. If you do not a
 
 1. Information We Collect
 
-We do not collect any personally identifiable information (PII). However, we may collect non-personally identifiable device-related data, such as:
+We do not collect any personally identifiable information (PII). However, we collect non-personally identifiable device-related and usage data through a third-party analytics service (Amplitude), including:
 	•	Device type (e.g., phone, tablet)
 	•	Operating system version (e.g., iOS, Android)
-	•	App performance metrics (e.g., crashes, loading times)
+	•	App version and build number
+	•	Country and language
+	•	Gameplay events (e.g., game start, correct answers, score)
+	•	A randomly generated device identifier (UUID) stored securely on your device
 
-This information helps us improve app performance, troubleshoot issues, and ensure compatibility across devices. This data is not linked to any individual user.
+This information helps us understand how users interact with the app and improve the user experience. The data is anonymized and not linked to any individual user.
 
 If we decide to collect additional analytics or data in the future, we will update this Privacy Policy accordingly.
 
@@ -25,9 +28,9 @@ If we decide to collect additional analytics or data in the future, we will upda
 
 2. How We Use Collected Data
 
-We may use device-related data for the following purposes:
-	•	To optimize app performance and improve user experience
-	•	To detect and fix technical issues, such as crashes
+We use the device and usage data for the following purposes:
+	•	To understand user behavior and improve gameplay and engagement
+	•	To optimize app performance and identify technical issues
 	•	To ensure compatibility with different operating systems and devices
 
 We do not use this data for tracking, advertising, or personal identification purposes.
@@ -38,15 +41,17 @@ We do not use this data for tracking, advertising, or personal identification pu
 
 We do not sell, rent, or share user data with third parties for marketing or advertising purposes.
 
-If we use third-party services (e.g., app analytics, crash reporting tools), they may process non-personally identifiable device-related data on our behalf. These third parties are required to handle the data in accordance with their own privacy policies and applicable laws.
+We use a third-party service, Amplitude, to collect and process anonymized usage and device data on our behalf. Amplitude is required to handle this data in accordance with their own privacy policy and applicable laws.
+
+You can learn more about Amplitude’s privacy practices here: https://amplitude.com/privacy
 
 ⸻
 
 4. Data Retention & Security
 
-We do not store or retain personal user data. Any device-related data collected is used solely for improving app performance and is not stored longer than necessary for this purpose.
+We do not collect or store personal user data. The anonymous device identifier (UUID) and usage data are retained only as long as necessary to analyze app usage and improve performance.
 
-We take reasonable security measures to protect any collected data from unauthorized access, disclosure, or misuse. However, no method of data transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+We take reasonable security measures to protect any collected data from unauthorized access, disclosure, or misuse. However, no method of data transmission or storage is 100% secure, and we cannot guarantee absolute protection.
 
 ⸻
 
