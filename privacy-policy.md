@@ -1,6 +1,6 @@
 # Privacy Policy — World Capital Cities Trivia
 
-**Last Updated:** 27 July 2026
+**Last Updated:** 1 August 2026
 
 ## 1. Information We Collect
 
@@ -11,6 +11,7 @@ World Capital Cities Trivia (“the App”, “we”, “us”) may collect:
 - Device and usage information, including device model, operating system, App version, language, IP-derived approximate location, screen views, gameplay interactions, and session information.
 - Crash, error, and performance diagnostic information.
 - If you use Sign in with Apple, an Apple-provided account identifier and, where Apple provides them, your name or email address.
+- When interactive maps load, network and device information, map requests, and de-identified usage telemetry may be processed by Mapbox.
 
 Daily Challenge map-pin coordinates represent your answer in the game. The App does not use your device’s physical location.
 
@@ -19,6 +20,7 @@ Daily Challenge map-pin coordinates represent your answer in the game. The App d
 We use this information to:
 
 - Operate the App and its gameplay features.
+- Provide interactive maps and map content.
 - Save scores and Daily Challenge progress.
 - Display public leaderboards.
 - Sync eligible progress across devices.
@@ -54,6 +56,7 @@ We use the following service providers:
 - **Supabase** for authentication, leaderboard data, and gameplay storage: [https://supabase.com/privacy](https://supabase.com/privacy)
 - **Amplitude** for product analytics: [https://amplitude.com/privacy](https://amplitude.com/privacy)
 - **Sentry** for crash reporting and performance diagnostics: [https://sentry.io/privacy/](https://sentry.io/privacy/)
+- **Mapbox** for interactive maps and map content. When maps load, Mapbox may process information such as your IP address, device and SDK information, map requests, and de-identified usage telemetry. You can manage Mapbox telemetry through the attribution information control displayed on the map: [https://www.mapbox.com/legal/privacy](https://www.mapbox.com/legal/privacy)
 - **Apple** for Sign in with Apple and operating-system services: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
 
 These providers may process information in other countries. We require service providers that process App information to provide protections consistent with this policy and applicable law.
