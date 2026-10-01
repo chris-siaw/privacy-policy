@@ -1,6 +1,6 @@
 # Privacy Policy — World Capital Cities Trivia
 
-**Last Updated:** 1 August 2026
+**Last Updated:** 1 October 2026
 
 ## 1. Information We Collect
 
@@ -69,7 +69,17 @@ Third-party services retain information according to the retention settings of o
 
 Uninstalling the App or signing out does not automatically delete information already stored on our servers.
 
-You may request access to, correction of, or deletion of your information by emailing:
+In version 3.0.6 and later, you can permanently delete your game account from Settings. Scroll below Feedback & Support, tap Delete Account, and confirm. This option is available to both guest players and players who use Sign in with Apple; you do not need to contact customer service to complete it.
+
+If your account is linked to Apple, the App asks you to verify with Apple during deletion to confirm account ownership and revoke the App’s Sign in with Apple access. This does not delete or affect your Apple ID.
+
+Account deletion removes your game account, display name, scores, Daily Challenge history, Passport and Atlas progress, World Tour progress, and wallet from our active gameplay systems. The App clears the associated account data stored on that device and confirms completion with “Account Deleted.” Starting fresh or signing in again does not restore the deleted progress.
+
+We retain minimal one-way hashes of deleted player and authentication identifiers, together with the deletion date, to prevent old devices, sessions, or queued submissions from recreating deleted records. These records do not contain raw identifiers, names, email addresses, or gameplay history and are retained while needed for that protection.
+
+We also request deletion of analytics associated with the player identifiers we can verify. Provider processing and retention may continue according to the applicable service policies; analytics cleanup does not delay confirmation of game-account deletion.
+
+For help with deletion, or to request access to or correction of your information, email:
 
 **contactcapitaltrivia@gmail.com**
 
