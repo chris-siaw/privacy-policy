@@ -81,7 +81,7 @@ We also request deletion of analytics associated with the player identifiers we 
 
 For help with deletion, or to request access to or correction of your information, email:
 
-**contactcapitaltrivia@gmail.com**
+**support@worldcapitalcities.app**
 
 Please include your current display name and mention whether you use Sign in with Apple so we can identify the correct records. We may request additional information where necessary to verify the request.
 
@@ -105,4 +105,4 @@ We may update this Privacy Policy when the App’s features or data practices ch
 
 For privacy questions or data requests, contact:
 
-**contactcapitaltrivia@gmail.com**
+**support@worldcapitalcities.app**
